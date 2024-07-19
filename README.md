@@ -1,4 +1,4 @@
-Customer Segmentation using K-means Clustering
+<h1>Customer Segmentation using K-means Clustering</h1>
 This project implements a customer segmentation model using K-means clustering. The model analyzes customers' past purchasing behavior to group them into distinct clusters, enabling targeted marketing and personalized customer experiences.
 
 Table of Contents
